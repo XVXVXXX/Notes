@@ -1,4 +1,4 @@
-### ColletionView中部插入Cell并且不影响当前可视范围.md  
+### ColletionView中部插入Cell并且不影响当前可视范围  
 以`IGListKit`为例，在`willDisplay`中请求异步数据并`reload`  
 ```swift
   func listAdapter(_ listAdapter: ListAdapter, willDisplay sectionController: ListSectionController, cell: UICollectionViewCell, at index: Int) {
