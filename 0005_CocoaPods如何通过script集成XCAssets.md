@@ -1,3 +1,4 @@
+`Pods-Target-resources.sh`
 ```shell
 XCASSET_FILES=()
 ...
