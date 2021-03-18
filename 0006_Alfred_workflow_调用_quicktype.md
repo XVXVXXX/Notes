@@ -1,3 +1,4 @@
+```applescript
 on alfred_script(q)
 
 set pre to "echo '"
@@ -11,3 +12,5 @@ set cmd to pre &q &suf
 	end tell
 
 end alfred_script
+
+```
